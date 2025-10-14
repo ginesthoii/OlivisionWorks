@@ -16,11 +16,10 @@
 a collection of tools and prototypes for sprite slicing, animation, and visual design.  
 Each subfolder holds a small focused project: a GUI tool, script, or concept built for practical visual workflows.</p>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a5f25c12-5621-4ef7-8ba0-2d3736e53025" width="350">
+  <img src="https://github.com/user-attachments/assets/cc759a6f-cc37-4ce2-8896-cc9d88834573" width="350">
 </p>
-
-
 
 ---
 
@@ -33,10 +32,14 @@ Each subfolder holds a small focused project: a GUI tool, script, or concept bui
 | **Tilemap Lab** | Simple tilemap visualizer for testing sprite alignment and animation loops. | In Progress |
 
 ---
+### Spritesheet Cutter App Gui 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc759a6f-cc37-4ce2-8896-cc9d88834573" width="450">
+  <img src="spritesheet-cutter-app/gui-demo.png" width="450">
 </p>
+
+
+
 
 ###  Tech Stack
 - **Python** — Tkinter, Pillow, PyGame experiments  
@@ -50,6 +53,10 @@ To make small, modular tools that empower visual creators —
 bridging **engineering precision** with **artistic expression**.
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5f25c12-5621-4ef7-8ba0-2d3736e53025" width="350">
+</p>
 
 
 <br><br>
