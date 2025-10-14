@@ -28,7 +28,7 @@ Each subfolder holds a small focused project: a GUI tool, script, or concept bui
 
 | Project | Description | Status |
 |----------|--------------|--------|
-| [**Sprite Cutter**](./OlivisionWorks/Spritesheet-Cutter-App) | Slice and export sprite sheets by tile size or grid layout. | Active |
+| [**Spritesheet Cutter App**](./OlivisionWorks/spritesheet-cutter-app) | Slice and export sprite sheets by tile size or grid layout. | Active |
 | **Palette Editor** | Manage and generate cohesive color palettes for pixel art and UI work. | Planned |
 | **Tilemap Lab** | Simple tilemap visualizer for testing sprite alignment and animation loops. | In Progress |
 
