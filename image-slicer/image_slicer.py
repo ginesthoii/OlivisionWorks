@@ -2,9 +2,9 @@ from PIL import Image
 import os
 
 # Settings
-SOURCE_IMAGE = "pony_sign.png"   # example pony image
-OUTPUT_DIR = "puzz-pieces"
-GRID_SIZE = 3                    # 3x3 = 9 tiles for your current game
+SOURCE_IMAGE = "x_sign.png"   # example  image
+OUTPUT_DIR = "nine-pieces"
+GRID_SIZE = 3                    # 3x3 = 9 tiles 
 
 def make_output_dir(path):
     if not os.path.exists(path):
